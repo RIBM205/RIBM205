@@ -7,7 +7,7 @@ Apasionado por la robótica 🤖, el desarrollo de videojuegos 🎮 y la creaci�
 ### 🚀 ¿Quién soy?
 
 - 🧠 Autodidacta desde los 12 años, aprendiendo electrónica, programación y diseño.
-- 🛠 Fundador y actual miembro de [Chabots](https://www.chabots.com.mx), equipo mexicano de robótica con presencia internacional.
+- 🛠  miembro de [Chabots](https://www.chabots.com.mx), equipo mexicano de robótica con presencia internacional.
 - 🏆 2º lugar en RoboCup Junior Soccer Lightweight en el Torneo Mexicano de Robótica 2024.
 
 
